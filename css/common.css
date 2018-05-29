@@ -62,6 +62,8 @@ footer::before, footer::after{
 }
 .section-title.text-left h1::after{display: none;}
 
+.section-title p { max-width: 380px; margin: auto;}
+
 .overlay{
   position: relative;
   width: 100%;
